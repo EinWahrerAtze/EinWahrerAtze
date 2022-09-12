@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a beginner C++ developer! Looking forward to improve my programming skills and create fun projects with Arduino.
 
 <!--
 **EinWahrerAtze/EinWahrerAtze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
